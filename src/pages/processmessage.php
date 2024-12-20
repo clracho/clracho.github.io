@@ -6,7 +6,7 @@ if (isset($_POST['typedemail']) && isset($_POST['typedmessage']) && !empty($_POS
     $message = $_POST['typedmessage'];
     $subject = "chrisfehrer.com Website Message from: ".$mailFrom;
 
-    $mailTo = "passthrough@chrisfehrer.com";
+    $mailTo = "cfeh25@gmail.com";
     $headers = "Website Message From: ".$mailFrom;
     $txt = "\n".$message;
 
