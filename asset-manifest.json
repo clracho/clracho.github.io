@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c2823bc.css",
+    "main.js": "/static/js/main.f769b8ca.js",
+    "static/js/787.1d7f2475.chunk.js": "/static/js/787.1d7f2475.chunk.js",
+    "static/media/wordle_big_animation2.gif": "/static/media/wordle_big_animation2.46135e2d29519b90218b.gif",
+    "static/media/binghamton_court_building_img.JPG": "/static/media/binghamton_court_building_img.3c0dd0f376791d04667d.JPG",
+    "static/media/portcrane_road_img.JPG": "/static/media/portcrane_road_img.481dbf050ae60fc6eb86.JPG",
+    "static/media/basys_board_7seg_img.PNG": "/static/media/basys_board_7seg_img.953345f3a55b9e3c909a.PNG",
+    "static/media/me.JPG": "/static/media/me.95f4a991d8e3f2472308.JPG",
+    "static/media/mud_valleys2_img.JPG": "/static/media/mud_valleys2_img.ba631b34311c3903804f.JPG",
+    "static/media/on_mt_marcy_img.JPG": "/static/media/on_mt_marcy_img.7c215bda8c20f1ad71e8.JPG",
+    "static/media/chessboard_project_img.png": "/static/media/chessboard_project_img.b32273ee8525bfc540f9.png",
+    "static/media/pololu_3pi_robot_maze_img.jpg": "/static/media/pololu_3pi_robot_maze_img.8ec989bc789db2feadf5.jpg",
+    "static/media/namecities_game_img.JPG": "/static/media/namecities_game_img.37994e4bc6894e620680.JPG",
+    "static/media/applecube.JPG": "/static/media/applecube.7648a85e3f658d7df2d0.JPG",
+    "static/media/github.svg": "/static/media/github.b6a94fc1e8df50ac1b1d42461a74495b.svg",
+    "index.html": "/index.html",
+    "main.1c2823bc.css.map": "/static/css/main.1c2823bc.css.map",
+    "main.f769b8ca.js.map": "/static/js/main.f769b8ca.js.map",
+    "787.1d7f2475.chunk.js.map": "/static/js/787.1d7f2475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2823bc.css",
+    "static/js/main.f769b8ca.js"
+  ]
+}
