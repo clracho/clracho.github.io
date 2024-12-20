@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1c2823bc.css",
-    "main.js": "/static/js/main.ee3f4c3a.js",
+    "main.js": "/static/js/main.0ab7913e.js",
     "static/js/787.1d7f2475.chunk.js": "/static/js/787.1d7f2475.chunk.js",
     "static/media/wordle_big_animation2.gif": "/static/media/wordle_big_animation2.46135e2d29519b90218b.gif",
     "static/media/binghamton_court_building_img.JPG": "/static/media/binghamton_court_building_img.3c0dd0f376791d04667d.JPG",
@@ -17,11 +17,11 @@
     "static/media/github.svg": "/static/media/github.b6a94fc1e8df50ac1b1d42461a74495b.svg",
     "index.html": "/index.html",
     "main.1c2823bc.css.map": "/static/css/main.1c2823bc.css.map",
-    "main.ee3f4c3a.js.map": "/static/js/main.ee3f4c3a.js.map",
+    "main.0ab7913e.js.map": "/static/js/main.0ab7913e.js.map",
     "787.1d7f2475.chunk.js.map": "/static/js/787.1d7f2475.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c2823bc.css",
-    "static/js/main.ee3f4c3a.js"
+    "static/js/main.0ab7913e.js"
   ]
 }
